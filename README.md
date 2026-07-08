@@ -3,7 +3,7 @@
 A modern single-page portfolio website for **Muhammad Bilal Khan**, focused on Software Engineering, AI Systems, Full-Stack Development, Backend Engineering, and Cloud/DevOps.
 
 Live Site:  
-https://krmaryum.github.io/bilal-khan-nit/
+https://kcommit.github.io/portfolio-bilal-khan/
 
 ## Features
 
